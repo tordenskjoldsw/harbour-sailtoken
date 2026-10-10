@@ -20,10 +20,10 @@ Security
 - Counter-based codes (HOTP) are not supported; such entries are kept unchanged and shown as not supported.
 
 Permissions
-- Camera: only on the scan page, to read QR codes. Frames are read on the phone and never stored.
+- Camera: only on the scan pages, to read QR codes, including the export codes of another authenticator app. Frames are read on the phone and never stored.
 - Documents and Downloads: to add a file and its key file, merge a copy, save a copy and import a backup of another authenticator app.
 - Internet: only for the Nextcloud sync you set up.
 
 SailToken is free software under the MIT license. The source code, the threat model and the security review are on GitHub.
 
-SailToken is an independent app. It is not affiliated with KeePass, KeePassXC or Nextcloud.
+SailToken is an independent app. It is not affiliated with KeePass, KeePassXC, Nextcloud, Google or Aegis.
