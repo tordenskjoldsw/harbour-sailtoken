@@ -12,8 +12,8 @@ password leaks, the second factor is still safe. What it does not give:
 protection against a compromised phone, which holds both apps.
 
 **Status:** version 0.6.0, tested on the Jolla Phone with Sailfish OS
-5.2. Not in the Jolla Store yet; build the RPM yourself as
-described below. The full plan is in [PLAN.md](PLAN.md).
+5.2. Available in the Jolla Store (Harbour); you can also build the RPM
+yourself as described below. The full plan is in [PLAN.md](PLAN.md).
 
 <p align="center">
   <img src="docs/images/screenshot-1-accounts.jpg" width="30%" alt="Account list with codes and countdown rings">
